@@ -21,7 +21,6 @@
 
 
 ## Features
-List the ready features here:
 - Querry data
 - Add, Edit, Update, Search and Delete records in sqlite.
 - Add, Edit, Update, Copy and Delete Tables in sqlite.
