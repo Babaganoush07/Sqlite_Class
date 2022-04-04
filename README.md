@@ -47,5 +47,4 @@ Project is: _no longer being worked on_. I'm sure there is more to add, but not 
 
 
 ## Acknowledgements
-- Learned most of my stuff from Youtube
 - [Object Oriented Programming with Python - Full Course for Beginners](https://youtu.be/Ej_02ICOIgs).
